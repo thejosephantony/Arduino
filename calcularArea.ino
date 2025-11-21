@@ -17,7 +17,7 @@ void loop() {
 
   if (tempo >= 5) {
     lcd.setCursor(0, 0);
-    lcd.print("Olavo tem razao!");
+    lcd.print("Bom dia");
   }
 
 }
